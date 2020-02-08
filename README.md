@@ -1,5 +1,5 @@
 # SocialNetwork_SBT
-Examination task of SberTech Java School
+Team development examination task of SberTech Java School
 
 ## Окружение
 Для запуска необходимо иметь:
